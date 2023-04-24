@@ -2,7 +2,7 @@
 
 ### Ferramentas
 
-- Kali Linux
+- "Kali Linux"
 - setoolkit
 
 ### Configurando o Phishing no Kali Linux
